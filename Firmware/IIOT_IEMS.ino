@@ -5,8 +5,8 @@
 const char* ssid   = "CMF2Pro";       
 const char* password   = "12345678";   
 // Telegram Bot Credentials 
-#define BOTtoken "8425827146:AAH-CRVMuXupTP9p66tfaqgBrHyp3rTA4E8"   
-#define CHAT_ID "6194007982"                                        
+#define BOTtoken "Your_Telegram_Bot_Token"   
+#define CHAT_ID "Your_Chat_ID"                                        
 const float VOLTAGE_HIGH_LIMIT = 250.0;  
 const float CURRENT_HIGH_LIMIT = 20.0;   
 #define MASTER_DE_RE_PIN 18   
